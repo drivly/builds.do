@@ -1,0 +1,5 @@
+name = "builds-do"
+account_id = "b6641681fe423910342b9ffa1364c76d"
+route = { pattern = "*/*", zone_id = "c41fb5d34f2b4c2a97ad1404d85db2f9" }
+main = "worker.js"
+compatibility_date = "2022-08-23"
